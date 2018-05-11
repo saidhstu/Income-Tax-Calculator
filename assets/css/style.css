@@ -1,0 +1,240 @@
+
+@media print {
+input{ border: none !important; background:#fff;color:#000;}
+      h5{display: none;overflow:hidden;}
+  .noprint { display: none; }
+  .nop2{display: none;}
+  .calcul{color:#FFFFFF;background: none;}
+input#submit{
+margin-top:20px;
+font-size:18px;
+
+border:none;
+color:#fff;
+cursor:pointer;
+
+}
+input#submit:hover{
+background:#fff;)
+}
+
+border:none;
+#left {
+   width: 120%; overflow: hidden; 
+  position: relative; 
+   
+}
+  select{
+     -webkit-appearance:none;
+    -moz-appearance:none;
+    -ms-appearance:none;
+    
+    appearance:none;
+   
+    margin-top: 17px;
+    background-color: white !important;
+     
+      }
+      h1{display: none;}
+     h6{font-size: 20px;color: black;visibility: visible !important; text-align: center;}
+    input#submit{background: none!important;}
+  
+      h5{display: none;overflow:hidden;}
+
+      i{visibility: visible !important; font-style:normal; }
+
+hr{
+display: none;
+
+}
+}
+
+
+@page { margin: 0px; 
+
+
+
+}
+#error {
+	color: red;
+	font-size: 13px;
+	
+	margin-top: 6px;
+	text-align: right;
+	margin-right: 45px;
+}
+#error1{
+
+    color: red;
+	font-size: 13px;
+	text-align:center;
+	margin-left: 90px;
+	margin-top: 6px;
+
+}
+#error2{
+
+    color: red;
+	font-size: 13px;
+	margin-left: 120px;
+	margin-top: 6px;
+
+}
+body { margin: 0px; }
+h5{
+  font-size: 36px; background: #58b14c;color: #fff ; padding: 10px;width: 940px;}
+#input1{width:100%;float:left; font-weight:bold;}
+
+select {
+    text-align: left;
+    border: 0 none;
+    color: #FFFFFF;  
+    font-size: 16px;
+    font-weight: bold;
+    padding: 2px 2px; 
+    background: #58B14C;
+}
+h6{visibility: hidden;}
+i{visibility: hidden;}
+#menue{
+
+  margin:0 auto 60px;
+   width:960px;
+  text-align:center;
+
+  
+}
+#left {
+
+    float:left;
+    width:325px;
+}
+
+#center {
+   
+  display: inline-block;
+    margin:0 auto;
+    width:260px;
+   
+}
+
+#right {
+   
+   
+    float:right;
+    width:325px;
+    
+}
+#label_output
+{
+color:#4A85AB;
+margin-left: 10px;
+}
+#result_id
+{
+
+text-align: center;
+background-color: #FCD6F4;
+height: 47px;
+margin: 0 0 -29px 0;
+padding-top: 12px;
+  font-size:20px;
+border-radius: 8px 8px 0 0;
+color: rgb(97, 94, 94);
+  width:300px
+  float:right;
+}
+
+
+#container {
+  height: 800px;
+  margin: 0 auto;
+  width: 960px;
+}
+#fugo{
+float:right
+}
+#firm{
+width:750px;
+margin-bottom:100px;
+padding:0 50px 20px;
+border: 1.5px solid #ddd;
+font-family: "Times New Roman", Times, serif;
+float:left;
+
+
+}
+h1{
+text-align:center;
+font-size:28px
+}
+hr{
+border:0;
+border-bottom:1.5px solid #ccc;
+margin-top:-10px;
+margin-bottom:30px
+}
+label{
+font-size:17px
+  float:left;
+  font-weight: bold;
+  text-align: right;
+ 
+}
+
+input {
+	margin-left: -10px;
+	text-align: right;
+	width: 95%;
+	padding: 7px;
+	type: number;
+	font-size: 18px;
+	font-weight: bold;
+	white-space: nowrap;
+	`: ;
+	border: 1.5px solid #dddd4f;
+	background: #efefef;
+}
+
+
+input:before {
+  content: attr(value);
+
+}
+
+input#submit{
+margin-top:20px;
+font-size:18px;
+background: #58b14c;
+border:1px solid #0F799E;
+color:#fff;
+cursor:pointer;
+text-align:center;
+
+}
+input#submit:hover{
+background:linear-gradient(#36caf0 5%,#22abe9 100%)
+}
+footer{width:960px;margin: 0 auto;}
+h3{text-align: center;font-size: 30px; color: #06960E;}
+h4 {
+  color: #616161;
+  font-size: 20px;
+}
+
+table, tr, td {
+	text-align: right;
+	font-size: 18px;
+	padding: 8px 7px;
+	vertical-align: inherit;
+	width: 700px;
+}
+ul{ color: #292929;
+    font-size: 19px;}
+    ul li{padding: 5px;}
+.middle{width: 960px; height: 450px;display: inline-block;}
+#taxlogic{width:450px;float: left}
+#mintax{width:450px;float: right;}
+#offer{margin-top: 50px;margin-bottom: 100px;}
+    
+   
